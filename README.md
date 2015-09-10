@@ -1,6 +1,6 @@
 # IBDB
 IBDB - Internet Book Database
-
+Project as part of Master of Information Management Coursework
 Requirements -
 ================
 1. Please modify the database path to point to your location of IBDB.db.
